@@ -1,8 +1,8 @@
-#Makefile for file_wr
+#Makefile for main 
 
-EXE=file_wr
-OBJ=file_wr.o
-SRC=file_wr.c
+EXE=main
+OBJ=main.o
+SRC=main.c
 
 CC=gcc
 

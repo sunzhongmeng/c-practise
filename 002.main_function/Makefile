@@ -1,8 +1,8 @@
-#Makefile
+#Makefile for main
 
-EXE=example
-OBJ=example.o
-SRC=example.c
+EXE=main
+OBJ=main.o
+SRC=main.c
 
 CC=gcc
 
