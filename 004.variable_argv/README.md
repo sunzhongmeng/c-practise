@@ -20,3 +20,5 @@ int main()
 * 使用宏 va_end 来清理赋予 va_list 变量的内存
 # reference
 * [C可变参数](http://www.runoob.com/cprogramming/c-variable-arguments.html)
+* [C语言基础：不定参数](https://blog.csdn.net/walle2018/article/details/79751650)
+* [C语言深处第二节：函数栈帧](https://www.askpure.com/course_DXMRI553-D81INAOS-06RBPK32-8QGUKX0E.html)
