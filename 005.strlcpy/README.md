@@ -1,3 +1,4 @@
+# 目前该代码无法编译，gcc认为strlcpy不是标准的c库函数
 # strlcpy 
 安全的字符串拷贝函数
 # reference
